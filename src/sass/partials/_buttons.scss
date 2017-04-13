@@ -1,0 +1,15 @@
+.btn, button{
+  background-color: transparent;
+  border: 2px solid $brand-color;
+  font-size: 1em;
+  padding: 10px 20px;
+  transition: .2s ease-in-out;
+  cursor: pointer;
+  font-weight: 700;
+  display: inline-block;
+}
+
+.btn-1:hover{
+  background: $brand-color;
+  color: #fff;
+}

@@ -1,0 +1,16 @@
+title: Hidden
+pages: true
+files: true
+fields:
+  title: title
+  intro: intro
+  text: text
+  postimage:
+      label: Block image
+      type:  selector
+      mode:  single
+      types:
+          - image
+  line: line
+  seotitle: seo-title
+  seodescription: seo-description

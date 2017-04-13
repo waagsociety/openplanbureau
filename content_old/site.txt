@@ -1,0 +1,21 @@
+Title: Kirby Starterkit
+
+----
+
+Author: Martin Risseeuw
+
+----
+
+Description: OPB website
+
+----
+
+Keywords: 
+
+----
+
+Copyright: 
+
+----
+
+Slogan: Waar huidige modellen ophouden, rekent het Open Planbureau verder

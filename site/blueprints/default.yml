@@ -1,0 +1,15 @@
+title: Page
+pages: true
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  intro: intro
+  text:
+    label: Text
+    type:  textarea
+  line: line
+  seotitle: seo-title
+  seodescription: seo-description
+  

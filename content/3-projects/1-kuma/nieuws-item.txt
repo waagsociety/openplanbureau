@@ -1,0 +1,21 @@
+Title: Kuma
+
+----
+
+Text: 
+
+Kumu – ‘bron van kennis’ in het Hawaiiaans – is een krachtig datavisualisatie-platform waarmee complexe informatie kan worden vertolkt in een interactieve netwerkvisualisatie. Oorspronkelijk wilden Jeff en Ryan Mohr, twee broers, inzicht krijgen in de verschillende mogelijkheden om duurzame energie te realiseren in Hawaii. Ze besloten om een methode te ontwikkelen om de benodigde informatie in kaart te brengen, en toen ze dat deden, was het hek van de dam. Nu kan iedereen met Kumu complexe informatie organiseren, weergeven, en het gesprek starten over complexe systemen.
+
+(link: http://www.kumu.io text: www.kumu.io)
+
+----
+
+Tags: visualisatie,datastructurering
+
+----
+
+Postimage: opb_1.jpg
+
+----
+
+Intro: Kumu – ‘bron van kennis’ in het Hawaiiaans – is een krachtig datavisualisatie-platform waarmee complexe informatie kan worden vertolkt in een interactieve netwerkvisualisatie. Oorspronkelijk wilden Jeff en Ryan Mohr, twee broers, inzicht krijgen in de verschillende mogelijkheden om duurzame energie te realiseren in Hawaii. Ze besloten om een methode te ontwikkelen om de benodigde informatie in kaart te brengen, en toen ze dat deden, was het hek van de dam. Nu kan iedereen met Kumu complexe informatie organiseren, weergeven, en het gesprek starten over complexe systemen.

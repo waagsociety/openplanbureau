@@ -1,0 +1,17 @@
+Title: Derde bericht
+
+----
+
+Text: Dit is de body tekst
+
+----
+
+Intro: Dit is de intro tekst
+
+----
+
+Tags: 
+
+----
+
+Postimage: ditos-hec.jpg

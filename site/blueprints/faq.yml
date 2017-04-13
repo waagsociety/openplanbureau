@@ -1,0 +1,11 @@
+title: Faq
+pages: true
+  template: faq-item
+files: true
+fields:
+  title: title
+  intro: intro
+  text: text
+  line: line
+  seotitle: seo-title
+  seodescription: seo-description

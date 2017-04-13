@@ -1,0 +1,5 @@
+label: Intro
+type:  textarea
+validate: 
+  minLength: 10
+  maxLength: 600

@@ -1,0 +1,10 @@
+title: Nieuws
+pages: nieuws-item
+files: false
+fields:
+  title: title
+  intro: intro
+  text: text
+  line: line
+  seotitle: seo-title
+  seodescription: seo-description

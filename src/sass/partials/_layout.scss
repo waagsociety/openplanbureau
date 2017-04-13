@@ -1,0 +1,279 @@
+body {
+  overflow-x: hidden;
+}
+
+.trigger {
+  position: absolute;
+  top: -50vh;
+}
+
+
+.main__content {
+  background: red;
+  width: 100%;
+  height: 100vh;
+}
+
+.container {
+  padding: 4em;
+
+  @include breakpoint(m) {
+    padding: 2em;
+  }
+
+}
+
+.container.big {
+  padding: 6em;
+
+  @include breakpoint(m) {
+    padding: 2em;
+  }
+}
+
+.text {
+  max-width: 60em;
+  margin: auto;
+
+  @include breakpoint(m){
+    transform: none !important;
+  }
+}
+
+
+
+.grid {
+  display: flex;
+
+  @include breakpoint(m) {
+    flex-wrap: wrap;
+  }
+}
+
+.slide {
+  min-height: 100vh;
+  align-items: center;
+}
+
+figure img{
+  max-width: 100%;
+}
+
+.grid-cell {
+  flex: 1;
+
+  @include breakpoint(m) {
+  flex: none !important;
+    width: 100% !important;
+  }
+}
+
+.image-cell {
+  background-size: cover;
+  background-position: center;
+}
+
+.post__picture {
+  margin-top: 14em;
+
+  @include breakpoint(m) {
+    margin: 0 0 2em 0 !important;
+    transform: none !important;
+
+  }
+}
+
+.block .grid:nth-of-type(even) {
+  color: white;
+  background-image: linear-gradient(-225deg, #7DD3FF 0%, #AB3D3D 100%);
+
+  .post__picture {
+   margin-left: 6em;
+  }
+}
+
+.block .grid:nth-of-type(even) .grid-cell:nth-of-type(2){
+  order: 1;
+}
+
+.blog.header{
+  min-height: 70vh;
+  width: 100%;
+  background-size: cover;
+  background-position: center;
+
+  @include breakpoint(m){
+
+    min-height: 50vh;
+  }
+}
+// .blog.header:before{
+//   content: '';
+//   position: absolute;
+//   left: 0;
+//   top: 0;
+//   height: 100%;
+//   width: 100%;
+//   background: $brand-color;
+// }
+/* With gutters */
+.grid--gutters {
+  margin: -1em 0 0 -1em;
+}
+
+.grid--gutters > .grid-cell {
+  padding: 1em 0 0 1em;
+}
+
+.grid--grow {
+  flex-grow: 1;
+} 
+
+/* Alignment per row */
+.grid--top {
+  align-items: flex-start;
+}
+.grid--bottom {
+  align-items: flex-end;
+}
+.grid--center {
+  align-items: center;
+}
+
+/* Alignment per cell */
+.grid-cell--top {
+  align-self: flex-start;
+}
+.grid-cell--bottom {
+  align-self: flex-end;
+}
+.grid-cell--center {
+  align-self: center;
+}
+
+
+.center-content{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.u-1of3{
+  width: 33.33% !important;
+  flex: none !important;
+
+  @include breakpoint(m) {
+    width: 100% !important;
+  }
+}
+
+.slogan {
+  max-width: 700px;
+  line-height: 1.4em;
+  color: black;
+
+  @include breakpoint(s){
+    font-size: 1.875em;
+  }
+}
+
+
+.intro {
+  background: $sec-color;
+  text-align: center;
+
+  @include breakpoint(s){
+    text-align: left;
+  }
+
+  .inner {
+    max-width: 940px;
+    margin: auto;
+  }
+  h1 {
+    max-width: 30em;
+    margin: auto;
+  }
+  p{
+    margin-bottom: 2em;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    line-height: 2em;
+    max-width: 60em;
+    margin: auto;
+  }
+}
+
+.list {
+
+  margin-bottom: 2em;
+
+  li {
+    margin-bottom: 0.5em;
+  }
+  a { color: black; }
+}
+
+.news-list:nth-of-type(even){
+  background: #f3f3f3;
+}
+
+.main__footer {
+  border-top: 1px solid #f3f3f3;
+
+  li {
+    display: inline-block;
+    margin-right: 5em;
+     
+    @include breakpoint(s) {
+      margin: 1em;
+      width: 100%;
+    }
+
+    &:last-child {
+      float: right;
+      margin-right: 0;
+
+      @include breakpoint(s) {
+        float: none;
+      }
+    }
+  }
+}
+
+.photo_info {
+  background: white;
+  padding: 1em;
+  display: inline-block;
+  right: 0;
+  bottom: 0;
+  position: absolute;
+}
+
+.newsletter-section {
+  background: $sec-color;
+}
+
+#mc_embed_signup {
+  max-width: 40em;
+  margin: auto;
+  background: rgba(255, 255, 255, 0) !important;
+}
+
+#mc_embed_signup input {
+  border-color: #000 !important;
+  background: transparent !important;
+  border-width: 2px !important;
+  border-radius: 0 !important;
+  padding: 15px 10px !important;
+  font-weight: 700 !important;
+}
+
+#mc_embed_signup .button {
+  padding: 5px !important;
+  display: block;
+  background: $brand-color !important;
+  font-weight: 700 !important;
+  border-radius: 2px !important;
+  line-height: initial !important;
+}

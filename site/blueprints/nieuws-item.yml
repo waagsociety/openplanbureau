@@ -1,0 +1,24 @@
+title: Nieuws-item
+pages: false
+files:
+  sortable: true
+  fields:
+    copyright: copyright
+    description: description
+    caption: caption
+fields:
+  title: title
+  intro: intro
+  text: text
+  tags:
+    label: Tags
+    type:  tags
+  postimage:
+      label: Block image
+      type:  selector
+      mode:  single
+      types:
+          - image
+  line: line
+  seotitle: seo-title
+  seodescription: seo-description

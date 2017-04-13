@@ -1,0 +1,23 @@
+Title: Tweede nieuws item
+
+----
+
+Text: 
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris imperdiet a erat eget congue. Mauris quis neque nec mi auctor efficitur eu in eros. Aenean vel felis hendrerit, imperdiet erat at, pharetra massa. Phasellus pulvinar elementum erat sit amet pharetra. Nullam mattis ornare sem sed tempus. Praesent vel elit tempor, venenatis augue ut, molestie tellus. Sed pulvinar, augue vel scelerisque lacinia, lectus urna venenatis nibh, in interdum orci felis ac mauris.
+
+Fusce dapibus felis magna, quis laoreet massa ullamcorper quis. Quisque viverra, augue quis sagittis luctus, diam dolor pulvinar mauris, vel tempus sapien tortor id quam. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Nam rutrum elit sed mauris tempus tincidunt semper non mauris. Proin commodo odio eu metus imperdiet, ut vehicula urna hendrerit. Interdum et malesuada fames ac ante ipsum primis in faucibus. Praesent dapibus nibh ullamcorper maximus eleifend.
+
+Duis scelerisque nisl sit amet ipsum vehicula gravida eget sed orci. Curabitur purus sem, tristique placerat neque in, hendrerit egestas tellus. Ut sollicitudin facilisis justo, sed pretium augue luctus vel. Suspendisse potenti. Praesent non risus gravida, fringilla dui sit amet, scelerisque felis. Sed consectetur sapien quam, et lobortis diam condimentum at. Nulla cursus metus dolor, a malesuada diam ornare at. Pellentesque quis volutpat est. Aliquam feugiat malesuada ullamcorper. Vivamus at lectus vel purus efficitur vehicula. Sed non nulla volutpat, dictum enim a, consequat libero. Suspendisse feugiat ligula eu arcu ultrices, et iaculis ligula semper. Curabitur vel metus in magna aliquet venenatis at eget tellus. Ut placerat finibus nulla semper finibus. Praesent tellus quam, consequat in tempus sollicitudin, sodales sit amet lorem. Nam id sapien vitae nunc tincidunt pharetra.
+
+----
+
+Intro: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris imperdiet a erat eget congue. Mauris quis neque nec mi auctor efficitur eu in eros. Aenean vel felis hendrerit, imperdiet erat at, pharetra massa. Phasellus pulvinar elementum erat sit amet pharetra. Nullam mattis ornare sem sed tempus. Praesent vel elit tempor, venenatis augue ut, molestie tellus. Sed pulvinar, augue vel scelerisque lacinia, lectus urna venenatis nibh, in interdum orci felis ac mauris.
+
+----
+
+Tags: 
+
+----
+
+Postimage: opb_1.jpg

@@ -1,0 +1,89 @@
+html{
+  font-size: 100%;
+  -webkit-font-smoothing: antialiased;
+  text-rendering: optimizeLegibility;
+  text-rendering: geometricPrecision;
+  font-smooth: always;
+  font-smoothing: antialiased;
+  -moz-font-smoothing: antialiased;
+  -webkit-font-smoothing: antialiased;
+  -webkit-font-smoothing: subpixel-antialiased;
+
+  @include breakpoint(m) {
+    font-size: 87.5%;
+  }
+}
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 0.875em;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  line-height: 1.9em;
+}
+
+h1, .alpha,
+h2, .beta,
+h3, .gamma,
+h4, .delta,
+h5, .epsilon,
+h6, .zeta {
+  margin: 0;
+  letter-spacing: .1em;
+  font-weight: 700;
+  line-height: 1.5em;
+}
+h1, .alpha {
+  font-size: 2.625em;
+}
+h2, .beta {
+  font-size: 1.625em;
+}
+h3, .gamma {
+  font-size: 1.3125em;
+}
+h4, .delta {
+  font-size: 1.1484375em;
+}
+h5, .epsilon {
+  font-size: 0.984375em;
+}
+h6, .zeta {
+  font-size: 0.875em;
+}
+p,
+blockquote {
+  font-size: 1.25em;
+  line-height: 1.9em;
+  hyphens: none;
+}
+dd,
+dt,
+li {
+  margin: 0;
+}
+a{
+  text-decoration: none;
+  opacity: 1;
+  color: $brand-color;
+  transition: opacity 0.3s ease-in-out;
+}
+
+.text p {
+  margin-bottom: 2em;
+  font-weight: 400;
+}
+
+strong {
+  font-weight: 700
+}
+
+.text img{
+  max-width: 100%;
+  margin: 2em 0 6em;
+}
+
+i,
+em {
+  font-style: italic;
+}

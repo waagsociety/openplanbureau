@@ -1,0 +1,10 @@
+title: faq-item
+pages: false
+files: true
+fields:
+  title: title
+  intro: intro
+  text: text
+  line: line
+  seotitle: seo-title
+  seodescription: seo-description

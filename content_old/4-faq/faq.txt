@@ -1,0 +1,42 @@
+Title: FAQ
+
+----
+
+Text: 
+
+**Wat is een planbureau?**
+Een planbureau houdt zich bezig met ontwikkelingen in de maatschappij: het signaleert trends, maakt scenario’s, doet voorspellingen en geeft advies. Planbureaus gaan sterk uit van data, modellen en geaccepteerde theoretische benaderingen. Ze richten zich voornamelijk op de uitwerkingen van voorgesteld of lopend beleid en op strategische vraagstukken.
+
+Nederland heeft drie officiële planbureaus: het Centraal Planbureau (CPB), het Sociaal-Cultureel Planbureau (SCP) en het Planbureau voor de Leefomgeving (PBL). Zij omschrijven zichzelf als onafhankelijke, wetenschappelijke onderzoeksinstituten die, gevraagd of ongevraagd, beleidsonderzoek verrichten. De drie planbureaus hebben elk een specifieke invalshoek. Het CPB verricht economische beleidsanalyse, het SCP doet sociaalwetenschappelijk onderzoek en het PBL verricht beleidsanalyse op het gebied van milieu, natuur en ruimte. De planbureaus rapporteren aan de regering, de Eerste en Tweede Kamer, de ministeries en aan maatschappelijke en overheidsorganisaties.
+Het drietal CPB, SCP en PBL heeft geen monopolie op het concept ‘planbureau’: de twee noordelijkste provincies hebben bijvoorbeeld elk een eigen sociaal planbureau (Friesland, Groningen) en de Zeeuwse Bibliotheek stelt zich ook als planbureau op, maar deze vallen niet onder de ministeriële regeling. Ze fungeren wel op enigszins vergelijkbare wijze, zij het regionaal.
+
+**Welke rol heeft het Centraal Planbureau?**
+Het CPB benadrukt dat het, ondanks de naam doet vermoeden, ‘niet aan economische planning [doet] en dat ook nooit heeft gedaan’. Wat doet het wel? Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+**Is er iets mis met het CPB?**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+Ligt het alleen aan het CPB? Nee, sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo.
+
+**Waarom een Open Planbureau?**
+We willen niet mínder doorrekenen, wat het risico oplevert van een feitenvrije politiek. Wij geloven in de noodzaak van méérdere perspectieven op en analyses van de maatschappij en het voorgesteld beleid. Wij doen niet af aan de autoriteit van de rekenmeester, maar zijn wel bewust van het bestaan van verschillende waarde-kaders. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+**Waarom de commons ?**
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+
+----
+
+Intro: Heb je vragen over het Open Plan Bureau
+
+----
+
+Description: Heb je vragen over het Open Plan Bureau
+
+----
+
+Seotitle: Voor vragen over het Open Planbureau
+
+----
+
+Seodescription: 

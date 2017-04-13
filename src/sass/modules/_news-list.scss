@@ -1,0 +1,23 @@
+.news-list-image {
+  min-height: 600px;
+  background: url(../images/bg.png);
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 75%;
+
+  &::before {
+    background: rgba(0,0,0, 0.2);
+    content: '';
+    height: 100%;
+    left: 0;
+    position: absolute;
+    top: 0;
+    width: 100%;
+  }
+
+  h1 {
+    color: #fff;
+  }
+}
